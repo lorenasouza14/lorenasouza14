@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**lorenasouza14/lorenasouza14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lorena de Souza
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souzaloro107@gmail.com)](souzaloro107@gmail.com)
 
-Here are some ideas to get you started:
+## HELLOOO HUMANS👋 Welcome to my profile!🙃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Lorena, tenho 15 anos e moro no Brasil 🌎
+
+🔎Algumas curiosidades sobre mim:
+ - No momento, estou estudando 👩‍💻
+ - Gosto de aprender coisas novas 💡
+ - Eu sei tocar violão 🎸
+ - Gosto de cozinhar 👩🏽‍🍳
+ - Gosto de escutar música 🎧🎶
+ - E amo jogar jogos 🎮
+ 
+ Meu lema:
+ 
+ #### "It's okay to have a bad day, because you can have a good day tomorrow"🌈☀
+ 

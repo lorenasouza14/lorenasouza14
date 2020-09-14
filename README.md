@@ -1,6 +1,7 @@
 
 # Lorena de Souza
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souzaloro107@gmail.com)](souzaloro107@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chaeyeondancer)](https://www.instagram.com/chaeyeondancer)
 
 ## HELLOOO HUMANS👋 Welcome to my profile!🙃
 
